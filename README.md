@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I'm a Tunisian Cybersecurity Engineer focused on both **offensive and defensive security**—a true **Purple Teamer** with experience in:
+I'm a Tunisian Cybersecurity Engineer focused on both **offensive and defensive security** — a true **Purple Teamer** with experience in:
 
 - Web & Infrastructure Pentesting  
 - Threat Hunting & Log Analysis  
@@ -23,19 +23,21 @@ I'm a Tunisian Cybersecurity Engineer focused on both **offensive and defensive 
 
 ## 🏅 Certifications
 
-<p align="left">
-  <img src="https://www.elearnsecurity.com/assets/elearnsecurity_logo_black.png" alt="eLearnSecurity" width="120"/>
+<p>
+  <a href="https://certs.ine.com/37b267e8-6444-44ae-bab0-ccfbdb72fcfb#acc.KpdVFC59" target="_blank">
+    <img src="https://raw.githubusercontent.com/OussamaSahnoun/assets/main/certs/ejpt.png" alt="eJPT" width="120"/>
+  </a>
+  <a href="https://certs.ine.com/e5109950-6ba6-4395-bed8-4e67e0b1e055#acc.n2k3ByVE" target="_blank">
+    <img src="https://raw.githubusercontent.com/OussamaSahnoun/assets/main/certs/ewpt.png" alt="eWPT" width="120"/>
+  </a>
+  <a href="https://certs.ine.com/0b34efb4-32cd-4990-b15b-80c744d55786#acc.bruIzhA8" target="_blank">
+    <img src="https://raw.githubusercontent.com/OussamaSahnoun/assets/main/certs/ewptx.png" alt="eWPTX" width="120"/>
+  </a>
 </p>
 
-<p align="left">
-  <img src="https://www.elearnsecurity.com/assets/eJPT_badge.svg" alt="eJPT" width="100"/>
-  <img src="https://www.elearnsecurity.com/assets/eWPT_badge.svg" alt="eWPT" width="100"/>
-  <img src="https://www.elearnsecurity.com/assets/eWPTX_badge.svg" alt="eWPTX" width="100"/>
-</p>
-
-- 🛡️ **eJPT** – Junior Penetration Tester  
-- 🕵️ **eWPT** – Web Application Penetration Tester  
-- ⚔️ **eWPTX** – Advanced Web App Pen Tester
+- 🛡️ [**eJPT** – Junior Penetration Tester](https://certs.ine.com/37b267e8-6444-44ae-bab0-ccfbdb72fcfb#acc.KpdVFC59)  
+- 🕵️ [**eWPT** – Web Application Penetration Tester](https://certs.ine.com/e5109950-6ba6-4395-bed8-4e67e0b1e055#acc.n2k3ByVE)  
+- ⚔️ [**eWPTX** – Advanced Web App Pen Tester](https://certs.ine.com/0b34efb4-32cd-4990-b15b-80c744d55786#acc.bruIzhA8)
 
 ---
 
@@ -57,7 +59,7 @@ I'm a Tunisian Cybersecurity Engineer focused on both **offensive and defensive 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="https://twitter.com/sahnounoussama5" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="30" height="30"/>
   </a>
   <a href="https://medium.com/@sahnounoussama" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="30" height="30"/>
@@ -74,4 +76,3 @@ I'm a Tunisian Cybersecurity Engineer focused on both **offensive and defensive 
 
 > _"Attack like a Red Teamer. Defend like a Blue Teamer. Think like a Purple one."_  
 > — Oussama Sahnoun
-
