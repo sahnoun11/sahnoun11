@@ -11,13 +11,22 @@
 
 I'm a Tunisian Cybersecurity Engineer focused on both **offensive and defensive security** — a true **Purple Teamer** with experience in:
 
-- Web & Infrastructure Pentesting  
-- Threat Hunting & Log Analysis  
-- Detection Engineering & Adversary Emulation  
-- Blue/Red Team Collaboration  
-- Building tools like [**WinLogHunt**](https://github.com/sahnoun11/WinLogHunt-V1.0)
+- 🔴 Web & Infrastructure Penetration Testing  
+- 🟣 Threat Hunting & Log Analysis  
+- 🔵 Detection Engineering & Adversary Emulation  
+- 🎯 Cyber Threat Intelligence (CTI) & Malware Analysis  
+- 🤝 Blue/Red Team Collaboration & Purple Team Operations  
+- 🛡️ CVE Research & Real-World Exploits
 
-🔍 I turn logs into stories, alerts into actions, and threats into opportunities to improve.
+I’m proud to be acknowledged as the discoverer of the following vulnerabilities:
+
+- 🛑 **CVE-2020-12297**  
+- 🛑 **CVE-2020-24454**  
+- 🛑 **CVE-2020-24451**
+
+These discoveries highlight my hands-on experience in vulnerability research, responsible disclosure, and offensive security tooling.
+
+🔍 I turn logs into stories, alerts into actions, and threats into opportunities to improve. My goal is to empower defenders while thinking like an attacker.
 
 ---
 
