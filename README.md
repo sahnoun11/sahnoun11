@@ -43,12 +43,14 @@ I'm a Tunisian Cybersecurity Engineer focused on both **offensive and defensive 
 
 ## 🧭 Focus Areas
 
-- 🟣 Purple Teaming & Adversary Simulation  
-- 🔍 Threat Hunting & Log-Based Detection  
-- ⚙️ Automation for Blue Teams (DFIR/SIEM)  
-- 🧰 Python & Open-source Security Tools  
-- 📊 Mapping detections to **MITRE ATT&CK**  
-- 🧪 CTFs | Labs | Continuous Red/Blue Training  
+- 🟣 Purple Teaming & Adversary Simulation
+- 🔴 Red Team Operations & Exploitation
+- 🛠️ Web & Infrastructure Penetration Testing
+- 🔍 Threat Hunting & Log-Based Detection 
+- ⚙️ Automation for Blue Teams (DFIR / SIEM / SOC)
+- 🧰 Python Scripting & Open-Source Security Tools
+- 📊 Mapping Detections to MITRE ATT&CK
+- 🧪 CTFs | Labs | Continuous Red/Blue Skill Development
 
 ---
 
