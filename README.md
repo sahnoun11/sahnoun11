@@ -25,7 +25,7 @@ I'm a Tunisian Cybersecurity Engineer focused on both **offensive and defensive 
 
 <p>
   <a href="https://certs.ine.com/37b267e8-6444-44ae-bab0-ccfbdb72fcfb#acc.KpdVFC59" target="_blank">
-    <img src="https://raw.githubusercontent.com/OussamaSahnoun/assets/main/certs/ejpt.png" alt="eJPT" width="120"/>
+    <img src="https://templates.images.credential.net/16947192901898719699151540862834.png" alt="eJPT" width="120"/>
   </a>
   <a href="https://certs.ine.com/e5109950-6ba6-4395-bed8-4e67e0b1e055#acc.n2k3ByVE" target="_blank">
     <img src="https://raw.githubusercontent.com/OussamaSahnoun/assets/main/certs/ewpt.png" alt="eWPT" width="120"/>
