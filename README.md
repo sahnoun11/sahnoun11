@@ -28,10 +28,10 @@ I'm a Tunisian Cybersecurity Engineer focused on both **offensive and defensive 
     <img src="https://templates.images.credential.net/16947192901898719699151540862834.png" alt="eJPT" width="120"/>
   </a>
   <a href="https://certs.ine.com/e5109950-6ba6-4395-bed8-4e67e0b1e055#acc.n2k3ByVE" target="_blank">
-    <img src="https://raw.githubusercontent.com/OussamaSahnoun/assets/main/certs/ewpt.png" alt="eWPT" width="120"/>
+    <img src="https://templates.images.credential.net/16947191873158488518373721742383.png" alt="eWPT" width="120"/>
   </a>
   <a href="https://certs.ine.com/0b34efb4-32cd-4990-b15b-80c744d55786#acc.bruIzhA8" target="_blank">
-    <img src="https://raw.githubusercontent.com/OussamaSahnoun/assets/main/certs/ewptx.png" alt="eWPTX" width="120"/>
+    <img src="https://templates.images.credential.net/16947191222671701758205992327842.png" alt="eWPTX" width="120"/>
   </a>
 </p>
 
@@ -65,7 +65,7 @@ I'm a Tunisian Cybersecurity Engineer focused on both **offensive and defensive 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="30" height="30"/>
   </a>
   <a href="https://app.hackthebox.com/profile/63065" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" alt="Hack The Box" width="30" height="30"/>
+    <img src="https://icons-for-free.com/iff/png/512/hackthebox-1330289840795787516.png" alt="Hack The Box" width="30" height="30"/>
   </a>
   <a href="https://www.youtube.com/c/sahnoun111" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30" height="30"/>
