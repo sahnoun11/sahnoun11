@@ -42,7 +42,7 @@ These discoveries highlight my hands-on experience in vulnerability research, re
   <a href="https://certs.ine.com/0b34efb4-32cd-4990-b15b-80c744d55786#acc.bruIzhA8" target="_blank">
     <img src="https://templates.images.credential.net/16947191222671701758205992327842.png" alt="eWPTX" width="120"/>
   </a>
-    <a href="https://arcx.io/verify-certificate?id=ec30d345c3662b249a9d396a52ebf41886b81c94&k=aa6ade86892949ef8ac645d34418dfc5" target="_blank">
+  <a href="https://arcx.io/verify-certificate?id=ec30d345c3662b249a9d396a52ebf41886b81c94&k=aa6ade86892949ef8ac645d34418dfc5" target="_blank">
     <img src="https://arcx.io/images/certs/FTIA.png" alt="FTIA" width="120"/>
   </a>
 </p>
